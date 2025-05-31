@@ -5,6 +5,24 @@
 }
 
 body {
+    color: #fff;
     background: url(./assets/images/background.png), no-repeat;
     background-size: cover;
+}
+
+.flex {
+    display: flex;
+}
+
+.FW {
+    flex-direction: column;
+}
+
+.FY-center {
+    align-items: center;
+}
+
+.F-center {
+    align-items: center;
+    justify-content: center;
 }
