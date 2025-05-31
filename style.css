@@ -6,13 +6,18 @@
 
 body {
     color: #fff;
-    background: url(./assets/images/background.png), no-repeat;
+    background: url(./assets/images/background.png);
     background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.h1 {
+    font-family: sans-serif;
 }
 
 main {
     width: 100%;
-    max-width: 700px;
+    max-width: 720px;
 }
 
 .logo-view {
