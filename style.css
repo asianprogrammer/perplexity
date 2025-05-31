@@ -54,10 +54,15 @@ img {
 
 .about {
     font-family: CC;
+    font-size: 0.9em;
 }
 
 .space {
     margin-bottom: 24px;
+}
+
+.about p {
+    line-height: 1.5em;
 }
 
 a {
