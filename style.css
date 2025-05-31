@@ -18,11 +18,13 @@ body {
 
 h1 {
     font-family: FKG;
+    text-align: center;
 }
 
 main {
     width: 100%;
     max-width: 720px;
+    gap: 80px;
 }
 
 .logo-view {
