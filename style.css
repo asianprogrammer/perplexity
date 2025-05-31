@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background: url(./assets/images/background.png), no-repeat;
+    background-size: cover;
+}
