@@ -37,5 +37,5 @@ A pixel-perfect clone of the **Perplexity Daily Podcast UI**, built using **only
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/perplexity-podcast-ui-clone.git
+   git clone https://github.com/asianprogrammer/perplexity.git perplexity-podcast-ui-clone
    cd perplexity-podcast-ui-clone
