@@ -9,6 +9,11 @@
     src: url(./assets/fonts/FKGroteskNeueTrial-Medium.otf);
 }
 
+@font-face {
+    font-family: CC;
+    src: url(./assets/fonts/CascadiaCode-Light.ttf);
+}
+
 body {
     color: #fff;
     background: url(./assets/images/background.png);
@@ -38,7 +43,26 @@ img {
 }
 
 .player-view {
+    font-family: CC;
     text-align: center;
+    font-size: 0.9em;
+}
+
+.player-view p {
+    margin-bottom: 15px;
+}
+
+.about {
+    font-family: CC;
+}
+
+.space {
+    margin-bottom: 24px;
+}
+
+a {
+    color: #fff;
+    text-decoration-color: #fff;
 }
 
 .text {
