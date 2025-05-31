@@ -65,6 +65,21 @@ img {
     line-height: 1.5em;
 }
 
+footer {
+    font-family: CC;
+    font-size: 0.9em;
+}
+
+footer .icon {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+
+footer section {
+    margin-left: 19px;
+}
+
 a {
     color: #fff;
     text-decoration-color: #fff;
