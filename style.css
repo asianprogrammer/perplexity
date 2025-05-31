@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: FKG;
+    src: url(./assets/fonts/FKGroteskNeueTrial-Medium.otf);
+}
+
 body {
     color: #fff;
     background: url(./assets/images/background.png);
