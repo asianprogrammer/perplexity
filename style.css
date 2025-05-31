@@ -37,6 +37,10 @@ img {
     object-fit: contain;
 }
 
+.player-view {
+    text-align: center;
+}
+
 .text {
     text-transform: uppercase;
 }
